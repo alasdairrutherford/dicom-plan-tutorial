@@ -1,3 +1,3 @@
 # dicom-plan-tutorial
  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alasdairrutherford/dicom-plan-tutorial/main?urlpath=https%3A%2F%2Fgithub.com%2Falasdairrutherford%2Fdicom-plan-tutorial%2Fblob%2Fmain%2FExample-External-Beam.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/alasdairrutherf-m-plan-tutorial-ix09jgl5/lab/tree/Example-External-Beam.ipynb)
