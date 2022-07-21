@@ -1,0 +1,7 @@
+name: dicom-demo-environment
+channels: 
+ - conda-forge
+dependencies:
+ - numpy
+ - matplotlib
+ - pydicom
